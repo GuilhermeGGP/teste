@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 void main(void){
-   int i = 1111111111111111111111111111;
+   int i = 33333333333333333333;
    printf("%d", i);
 }
